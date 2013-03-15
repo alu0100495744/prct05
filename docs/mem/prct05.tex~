@@ -72,7 +72,9 @@ Beamer que es software libre, permite hacer sin pagar presentaciones de gran cal
 \item $ \{\emptyset\} \neq \mathbb{R} $ , pues $ 0 \in  \mathbb{R}$
 \item $\dfrac {\partial f} {\partial x}=1 \Rightarrow f=x+c$ con c una constante.
 \item $\int _{0}^{0} x dx =0$
-\item $1+1=2$
+\item begin{displaymath}
+       1+1=2
+       end{displaymath}
 \item Si $n=2k+1$ con $ k\in \mathbb{N}$, n es impar.
 \end{enumerate}
 
@@ -88,32 +90,19 @@ Beamer que es software libre, permite hacer sin pagar presentaciones de gran cal
 
   \begin{thebibliography}{10}
 
-    \beamertemplatebookbibitems
-    \bibitem[Plan Estudios, 2011]{plan}  
-    Documento de verificación del grado. 
-    (2011) 
 
-    \beamertemplatebookbibitems
-    \bibitem[Guía Docente, 2013]{guia}  
-    Guía docente. 
-    (2013) 
-    {\small $http://eguia.ull.es/matematicas/query.php?codigo=299341201$}
-
-    \beamertemplatebookbibitems
-    \bibitem[URL: CTAN]{latex} 
-    CTAN. {\small $http://www.ctan.org/$}
 
     \beamertemplatebookbibitems
     \bibitem[URL: vision objects]{vo} 
     vision objects consultada 15-3-13 {\small \url{http://webdemo.visionobjects.com/equation.html?locale=default}}
     
-    
-    
     \beamertemplatebookbibitems
     \bibitem[URL: zweitag]{z} 
      zweitag consultada 15-3-13 {\small \url{http://detexify.kirelabs.org/classify.html}}
      
-     
+     \beamertemplatebookbibitems
+    \bibitem[URL: The University of Sydney]{tuos} 
+     The University of Sydney consultada 15-3-13 {\small \url{http://ci2.es/objetos-de-aprendizaje/elaborando-referencias-bibliograficas}}
      
   \end{thebibliography}
 \end{frame}

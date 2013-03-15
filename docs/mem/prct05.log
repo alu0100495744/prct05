@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-1.40.10 (TeX Live 2009/Debian) (format=pdflatex 2013.1.15)  15 MAR 2013 10:23
+This is pdfTeX, Version 3.1415926-1.40.10 (TeX Live 2009/Debian) (format=pdflatex 2013.1.15)  15 MAR 2013 10:35
 entering extended mode
  %&-line parsing enabled.
 **prct05.tex
@@ -1081,27 +1081,19 @@ LaTeX Font Warning: Font shape `OT1/cmss/m/n' in size <4> not available
 
 ] [9
 
-] [10
-
-] [11
-
-] [12
-
-] [13
-
 ]
-LaTeX Font Info:    Try loading font information for U+msa on input line 82.
+LaTeX Font Info:    Try loading font information for U+msa on input line 84.
 
 (/usr/share/texmf-texlive/tex/latex/amsfonts/umsa.fd
 File: umsa.fd 2009/06/22 v3.00 AMS symbols A
 )
-LaTeX Font Info:    Try loading font information for U+msb on input line 82.
+LaTeX Font Info:    Try loading font information for U+msb on input line 84.
 
 (/usr/share/texmf-texlive/tex/latex/amsfonts/umsb.fd
 File: umsb.fd 2009/06/22 v3.00 AMS symbols B
-) [14
+) [10
 
-] [15
+] [11
 
  </usr/share/texmf/tex/latex/beamer/base/art/beamericonbook.pdf>]
 \tf@nav=\write6
@@ -1120,10 +1112,10 @@ LaTeX Font Warning: Size substitutions with differences
 
  ) 
 Here is how much of TeX's memory you used:
- 15513 strings out of 495061
- 286273 string characters out of 1182621
+ 15491 strings out of 495061
+ 286013 string characters out of 1182621
  358896 words of memory out of 3000000
- 18240 multiletter control sequences out of 15000+50000
+ 18228 multiletter control sequences out of 15000+50000
  14095 words of font info for 53 fonts, out of 3000000 for 9000
  28 hyphenation exceptions out of 8191
  49i,16n,63p,422b,940s stack positions out of 5000i,500n,10000p,200000b,50000s
@@ -1135,9 +1127,9 @@ ic/amsfonts/cm/cmss8.pfb></usr/share/texmf-texlive/fonts/type1/public/amsfonts/
 cm/cmssi10.pfb></usr/share/texmf-texlive/fonts/type1/public/amsfonts/cm/cmsy10.
 pfb></usr/share/texmf-texlive/fonts/type1/public/amsfonts/cm/cmtt10.pfb></usr/s
 hare/texmf-texlive/fonts/type1/public/amsfonts/symbols/msbm10.pfb>
-Output written on prct05.pdf (15 pages, 192153 bytes).
+Output written on prct05.pdf (11 pages, 164280 bytes).
 PDF statistics:
- 495 PDF objects out of 1000 (max. 8388607)
- 39 named destinations out of 1000 (max. 500000)
+ 386 PDF objects out of 1000 (max. 8388607)
+ 29 named destinations out of 1000 (max. 500000)
  99 words of extra memory for PDF output out of 10000 (max. 10000000)
 
