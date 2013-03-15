@@ -103,6 +103,18 @@ Beamer que es software libre, permite hacer sin pagar presentaciones de gran cal
     \bibitem[URL: CTAN]{latex} 
     CTAN. {\small $http://www.ctan.org/$}
 
+    \beamertemplatebookbibitems
+    \bibitem[URL: vision objects]{vo} 
+    vision objects consultada 15-3-13 {\small \url{http://webdemo.visionobjects.com/equation.html?locale=default}}
+    
+    
+    
+    \beamertemplatebookbibitems
+    \bibitem[URL: zweitag]{z} 
+     zweitag consultada 15-3-13 {\small \url{http://detexify.kirelabs.org/classify.html}}
+     
+     
+     
   \end{thebibliography}
 \end{frame}
 
