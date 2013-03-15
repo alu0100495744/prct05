@@ -1,0 +1,112 @@
+\documentclass{beamer}
+\usepackage[spanish]{babel}
+\usepackage[utf8]{inputenc}
+\usepackage{graphicx}
+
+\newtheorem{definicion}{Definición}
+\newtheorem{ejemplo}{Ejemplo}
+
+\title{Manejo básico de beamer}
+\author{Javier Hernández Pérez}
+\date{\today}
+\usetheme{Madrid}
+\begin{document}
+\begin{frame}
+\titlepage
+\end{frame}
+%++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+%++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+\begin{frame}
+  \frametitle{Contenido}
+  \tableofcontents
+\end{frame} 
+%++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+%++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+\section{Motivación y objetivos}
+\begin{frame}
+\frametitle{Motivación}
+Ante la entrada de los ordenadores cada día es más importante ser capaces de hacer una presentación correctamente para:
+\pause
+\begin{enumerate}[<+->]
+\item Explicar un trabajo.
+\pause
+\item Vender algo.
+\pause
+\item No ser llamado anticuado.
+\pause
+\end{enumerate}
+Beamer que es software libre, permite hacer sin pagar presentaciones de gran calidad.
+\end{frame}
+%++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+%++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+\section{Como hacer una bonita presentación}
+
+\begin{frame}
+  \frametitle{Presentación} 
+
+    En una presentación no debe ponerse toda la información sino una guía que debe:
+    \pause
+
+    \begin{itemize}
+    \item
+    Fijar conceptos a los oyentes.
+    \pause
+
+    \item
+    Ser concisa.
+
+  \end{itemize}
+
+\end{frame}
+
+%++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+%++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+\section{Fórmulas} 
+
+\begin{frame}
+  \frametitle{Formulas} 
+
+\begin{example}
+\begin{enumerate}
+\item $ \{\emptyset\} \neq \mathbb{R} $ , pues $ 0 \in  \mathbb{R}$
+\item $\dfrac {\partial f} {\partial x}=1 \Rightarrow f=x+c$ con c una constante.
+\item $\int _{0}^{0} x dx =0$
+\item $1+1=2$
+\item Si $n=2k+1$ con $ k\in \mathbb{N}$, n es impar.
+\end{enumerate}
+
+\end{example}
+
+
+\end{frame}
+%++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+%++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++  
+\begin{frame}
+  \frametitle{Bibliografía}
+
+  \begin{thebibliography}{10}
+
+    \beamertemplatebookbibitems
+    \bibitem[Plan Estudios, 2011]{plan}  
+    Documento de verificación del grado. 
+    (2011) 
+
+    \beamertemplatebookbibitems
+    \bibitem[Guía Docente, 2013]{guia}  
+    Guía docente. 
+    (2013) 
+    {\small $http://eguia.ull.es/matematicas/query.php?codigo=299341201$}
+
+    \beamertemplatebookbibitems
+    \bibitem[URL: CTAN]{latex} 
+    CTAN. {\small $http://www.ctan.org/$}
+
+  \end{thebibliography}
+\end{frame}
+
+
+%++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++  
+
+\end{document}
