@@ -3,3 +3,4 @@
 \beamer@sectionintoc {1}{Motivaci\IeC {\'o}n y objetivos}{3}{0}{1}
 \beamer@sectionintoc {2}{Como hacer una bonita presentaci\IeC {\'o}n}{9}{0}{2}
 \beamer@sectionintoc {3}{F\IeC {\'o}rmulas}{12}{0}{3}
+\beamer@sectionintoc {4}{Bibliograf\IeC {\'\i }a}{13}{0}{4}
